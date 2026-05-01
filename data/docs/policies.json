@@ -1,0 +1,76 @@
+{
+  "source_domain": "xPLumbers.com",
+  "last_crawled": "2026-05-01",
+  "chunks": [
+    {
+      "id": "pol_001",
+      "title": "Privacy Policy",
+      "category": "Privacy",
+      "content": "xPLumbers's Privacy Policy governs personal information collected when visiting the website or mobile app. Personal information collected includes: name, email and postal address, phone number, credit card information (collected by third-party processor), and location data via Google Maps Geolocation API (latitude/longitude, zip code, city, state). Job applicants may also provide contact information and job experience. Sensitive demographic information is collected through a third-party tool only when required for legitimate employment-related purposes. Information may be used for new, unanticipated uses with posted changes and consent for personally-identifying information. To correct information, send request to privacy.policy@xPLumbers.com with sufficient identifying information. xPLumbers does not sell or disclose customer lists or email address lists to unrelated third parties and does not participate in bulk email solicitations (spam). California residents have rights under CCPA and 'Shine the Light' law. Effective date: 04/16/2025.",
+      "source_url": "https://www.xPLumbers.com/privacy-policy/",
+      "keywords": [
+        "privacy policy",
+        "personal information",
+        "CCPA",
+        "California privacy rights",
+        "data collection"
+      ]
+    },
+    {
+      "id": "pol_002",
+      "title": "Terms of Use",
+      "category": "Terms",
+      "content": "xPlumber's Terms of Use apply to the website intended for use in the United States and Canada. Current version includes revisions through August 31, 2018. The site grants a limited, nonexclusive, revocable license for personal and non-commercial use. Prohibited activities include: modifying/reproducing/reselling content, bypassing technical measures, using data mining/robots/automated tools, violating site security, or interfering with site operation. Users are entirely responsible for any content they upload or transmit. Users grant xPlumber a royalty-free, non-exclusive, perpetual and irrevocable license to use, display, edit, or delete content. Trademarks and copyrights displayed are owned by xPlumber or third parties. Users may download a single copy for personal, noncommercial use with copyright notices intact. SMS communications may be used for appointment updates and marketing; opt-out by replying STOP. Compatible carriers listed include AT&T, Verizon, T-Mobile/Sprint, and many regional carriers. xPlumber is not responsible for content on linked third-party sites. The site is provided 'as is' with no warranties. Users agree to indemnify xPlumber against claims arising from site use.",
+      "source_url": "https://www.xPLumbers.com/terms-of-use/",
+      "keywords": [
+        "terms of use",
+        "user agreement",
+        "copyright",
+        "trademark",
+        "SMS opt-out",
+        "liability"
+      ]
+    },
+    {
+      "id": "pol_003",
+      "title": "CCPA Notice",
+      "category": "Privacy",
+      "content": "Under the California Consumer Privacy Act (CCPA), California residents have the following rights: Right to Access (request copy of personal information collected in previous 12 months, including categories collected, sources, business purpose, third parties shared with, and specific pieces), Right to Data Portability (receive information in portable format), Right to Correct Inaccurate Information, Right to Deletion (request deletion of personal information), Right to Be Free from Discrimination (xPlumber will not deny goods/services, charge different prices, provide different quality, or suggest different prices/quality for exercising CCPA rights), Right to Opt Out of Sharing (opt out of sharing personal information to third parties for cross-context behavioral advertising). To exercise rights, submit a verifiable consumer request to 1-866-677-7881 or ccpa@xPLumbers.com. Only two access requests allowed per 12-month period. Response aim is within 45 days with possible extension. Contact: xPLumbers Group, Inc., 255 E 5th Street, Suite 2500, Cincinnati, OH 45202.",
+      "source_url": "https://www.xPLumbers.com/ccpa-notice/",
+      "keywords": [
+        "CCPA",
+        "California Consumer Privacy Act",
+        "right to deletion",
+        "data portability",
+        "opt out"
+      ]
+    },
+    {
+      "id": "pol_004",
+      "title": "Do Not Sell My Personal Information",
+      "category": "Privacy",
+      "content": "xPLumbers Group, Inc. does not sell your personal information to third parties and has no plans to do so in the future. California residents can opt-out of the sale of personal information by providing: First Name, Last Name, E-mail Address, State of Residence, and Nature of Request. Submit to 1-866-677-7881 or ccpa@rotorooter.com. Types of information covered by opt-out: email address, phone number, mailing address; identifiers such as IP addresses, MAC address, or other online/device identifiers; any other nonpublic information that could reasonably identify you or your household.",
+      "source_url": "https://www.rotorooter.com/dnsmpi/",
+      "keywords": [
+        "do not sell",
+        "opt out",
+        "personal information sale",
+        "California privacy"
+      ]
+    },
+    {
+      "id": "pol_005",
+      "title": "Service Guarantees and Disclaimers",
+      "category": "Service Terms",
+      "content": "All available services, hours of operations, pricing structure, and guarantees may vary by location. Drain cleanings are guaranteed for six months. Free onsite estimates provided. No hidden or extra charges for plumbing or drain service on holidays, nights, and weekends. Financing options available for new water heater systems and other services. Service offerings may vary by location.",
+      "source_url": "https://www.xPLumbers.com/",
+      "keywords": [
+        "guarantee",
+        "service terms",
+        "pricing",
+        "financing",
+        "location variance"
+      ]
+    }
+  ]
+}

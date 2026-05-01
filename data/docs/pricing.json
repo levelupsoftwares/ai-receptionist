@@ -1,0 +1,86 @@
+{
+  "source_domain": "xPlumber.com",
+  "last_crawled": "2026-05-01",
+  "chunks": [
+    {
+      "id": "prc_001",
+      "title": "Pricing Model and Philosophy",
+      "category": "General Pricing",
+      "content": "xPlumber uses a flat-rate pricing system at most locations. This means customers pay a single quoted price for a specific job regardless of whether it takes 20 minutes or eight hours. xPlumber does not provide phone quotes because no plumber can accurately estimate costs without an in-person assessment. Instead, they offer free upfront and in-person cost estimates with no trip fees. If the customer declines the estimate, they typically pay nothing for the visit. There are no extra charges for nights, weekends, or holidays. xPlumber warns against competitors who advertise impossibly low prices (e.g., $99 drain cleaning) and then tack on hidden fees, trip charges, equipment fees, stairway fees, longer cable fees, and overtime fees. Some competitors only 'open' a drain by poking a hole through the clog rather than thoroughly cleaning the entire pipe, leading to re-clogs within a week to 30 days. xPlumber provides transparent quotes with no hidden fees or surprises at the end.",
+      "source_url": "https://www.xPlumber.com/blog/plumbing/how-much-does-xPlumber-cost/",
+      "keywords": ["flat rate pricing", "free estimate", "no trip fee", "upfront pricing", "no hidden fees"]
+    },
+    {
+      "id": "prc_002",
+      "title": "Drain Cleaning Pricing",
+      "category": "Drain Cleaning",
+      "content": "xPlumber does not publish fixed drain cleaning prices because costs vary based on factors including the type of drain, type of clog, job size, and necessary equipment (mechanical snaking, hydrojetting, video pipe inspection). A free estimate is provided after an in-person assessment. Simple sink or bathtub drain cleaning typically takes less than an hour. Larger branch line or main sewer jobs can take several hours to a full day. xPlumber guarantees drain cleanings for six months. Competitors often advertise $99 or less drain cleaning but limit it to the first 25 feet of pipe, while most sewer pipes are 50 feet or longer, resulting in significantly higher final bills. xPlumber cleans the entire drainpipe from end to end to prevent clogs from reforming quickly.",
+      "source_url": "https://www.xPlumber.com/plumbing/drain-cleaning/",
+      "keywords": ["drain cleaning cost", "drain cleaning price", "free estimate", "six month guarantee"]
+    },
+    {
+      "id": "prc_003",
+      "title": "Hydro Jetting Pricing",
+      "category": "Hydro Jetting",
+      "content": "Hydro jetting costs more than mechanical drain cleaning because jetting machines and trailers are expensive to purchase and maintain. Most xPlumber locations provide special rates for regular commercial customers who need jetting on a regular schedule, especially restaurants and food processing facilities that produce lots of grease. Pricing is upfront and transparent with flat-rate pricing at most locations and no bait-and-switches or hidden fees. The majority of water jetting service jobs are finished in two hours or less, although time can vary depending on the job. High-pressure water is blasted through pipes at up to 4,000 PSI.",
+      "source_url": "https://www.xPlumber.com/blog/plumbing/what-to-expect-during-water-jetting-service/",
+      "keywords": ["hydro jetting cost", "hydro jetting price", "commercial rates", "flat rate", "4000 PSI"]
+    },
+    {
+      "id": "prc_004",
+      "title": "Water Heater Pricing",
+      "category": "Water Heater",
+      "content": "Conventional electric or gas water heaters cost about $500 and last 11-15 years. Tankless water heaters cost $700-$1,500 and have a life expectancy of 15-20 years; they may reduce water heating bills by as much as 30 percent. Hybrid heat pump water heaters can reduce water heating costs by almost 60 percent. xPlumber offers upfront pricing with no surprises for water heater repair, replacement, and installation. Same-day installation is available in most cases. Financing options are available for new water heater systems. The average lifespan of a tank heater is 10 years. All major brands are installed including A.O. Smith, Rheem, Bradford White, and Rinnai.",
+      "source_url": "https://www.xPlumber.com/blog/water-heaters/buying-a-new-hot-water-heater-with-xPlumber/",
+      "keywords": ["water heater cost", "tankless water heater price", "hybrid water heater", "financing", "water heater replacement"]
+    },
+    {
+      "id": "prc_005",
+      "title": "Sewer Line Repair and Replacement Pricing",
+      "category": "Sewer Lines",
+      "content": "Sewer pipe repair or cleaning is much more affordable than full replacement and is often enough to correct the problem. Full sewer line replacement is a significant investment with costs varying widely depending on the length and depth of the pipe, time, materials, and nature of the replacement. Trenchless pipe repair (pipe bursting or pipe relining/CIPP) often costs less than traditional digging when factoring in savings from not having to repair landscaping, replace trees, re-pour concrete driveways or sidewalks. Trenchless replacement uses HDPE pipes expected to last 50+ years, possibly 100. Pipe bursting costs vary based on pipe length and diameter, soil conditions and depth, local labor and permit rates, and obstacles like trees, patios, or utilities. Most pipe bursting jobs take 1-2 days. xPlumber offers complete financing services so customers can get sewer line repaired without paying in full upfront.",
+      "source_url": "https://www.xPlumber.com/blog/drains/what-you-can-expect-from-sewer-line-repairs/",
+      "keywords": ["sewer line replacement cost", "trenchless sewer repair cost", "pipe bursting price", "financing", "HDPE pipe"]
+    },
+    {
+      "id": "prc_006",
+      "title": "Trenchless Pipe Lining (CIPP) Pricing",
+      "category": "Trenchless",
+      "content": "Trenchless pipe relining (CIPP - Cured-In-Place Pipe) repairs sewer lines with minimal disruption, usually requiring only an access pit at both ends of the pipe. The process involves video camera inspection, pipe descaling and cleaning, insertion of a resin-saturated liner, curing with heat or UV light, and final inspection. Epoxy liners and HDPE materials resist corrosion and root intrusion. Once cured, they are as tough and reliable as a new PVC pipe. Repairs are completed in hours, not days, with no large-scale digging. Transparent pricing is provided with clear quotes. This method avoids expensive collateral damage to landscaping, trees, slabs, sidewalks, driveways, and parking lots. Pipe coating is most effective on recently descaled pipes and can cost-effectively extend the life of older pipes.",
+      "source_url": "https://www.xPlumber.com/plumbing/sewer-lines/pipe-lining/",
+      "keywords": ["pipe lining cost", "CIPP price", "trenchless pipe repair", "epoxy liner", "no dig"]
+    },
+    {
+      "id": "prc_007",
+      "title": "Coupons, Discounts, and Financing",
+      "category": "Savings",
+      "content": "xPlumber offers downloadable coupons on their website; customers enter their zip code to see local coupons. Example coupon: $55 off any plumbing or drain cleaning service at some locations. Senior and military discounts are available at select locations. Special financing is available through partners such as Synchrony Bank to make plumbing repair expenses convenient and stress-free. Financing options are available for new water heater systems and sewer line repairs. Customers can get repairs done today and pay over time. Coupons and discounts vary by location.",
+      "source_url": "https://www.xPlumber.com/southsanfranciscoca/",
+      "keywords": ["coupons", "discounts", "senior discount", "military discount", "financing", "Synchrony Bank"]
+    },
+    {
+      "id": "prc_008",
+      "title": "Competitor Pricing Warnings",
+      "category": "Consumer Awareness",
+      "content": "xPlumber warns consumers about common bait-and-switch pricing tactics used by competitors in the plumbing and drain industry. Common tricks include: advertising $99 or less drain service that only covers the first 25 feet of pipe (most sewers are 50+ feet), adding surprise costs like trip fees, stairway fees, equipment fees, longer cable fees, and overtime fees, and performing incomplete drain service that only pokes a hole through the clog rather than cleaning the entire pipe. Some companies use discount service calls as loss-leaders to sell unnecessary sewer replacements. xPlumber advises that if a price sounds too good to be true, it usually is. xPlumber provides written no-hassle guarantees and stands by estimates.",
+      "source_url": "https://www.xPlumber.com/blog/drains/why-99-dollar-drain-cleaning-claims-dont-add-up/",
+      "keywords": ["bait and switch", "hidden fees", "$99 drain cleaning", "consumer warning", "scam"]
+    },
+    {
+      "id": "prc_009",
+      "title": "Water Damage Restoration Pricing",
+      "category": "Water Damage",
+      "content": "xPlumber provides 24/7 emergency water damage restoration with upfront pricing. The cost depends on the category of water involved: clean water (burst pipe, water heater, faucet), gray water (dirty/contaminated water or stormwater), or black water (sewage-contaminated water from sewer or septic backups). The process includes water extraction, removal of unsalvageable contents, sanitation with antimicrobial agents, drying with air movers and dehumidifiers, and final inspection. xPlumber works directly with insurance providers. Technicians are IICRC-certified. Financing may be available for large restoration projects. Free estimates provided after assessment.",
+      "source_url": "https://www.xPlumber.com/water-damage-restoration/",
+      "keywords": ["water damage cost", "restoration pricing", "insurance", "clean water", "black water", "IICRC"]
+    },
+    {
+      "id": "prc_010",
+      "title": "General Pricing Disclaimers",
+      "category": "Disclaimers",
+      "content": "All available services, hours of operations, pricing structure, and guarantees may vary by location. Contact your local xPlumber for details. xPlumber does not charge extra for plumbing or drain service on nights, weekends, or holidays. Free onsite estimates are provided. There is no trip charge. Flat-rate pricing is used at most locations. Financing options vary by location and are subject to credit approval. Coupon offers vary by location and are subject to terms and conditions.",
+      "source_url": "https://www.xPlumber.com/",
+      "keywords": ["pricing disclaimer", "location variance", "no trip charge", "flat rate", "holiday pricing"]
+    }
+  ]
+}

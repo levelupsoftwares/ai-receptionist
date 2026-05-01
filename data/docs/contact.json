@@ -1,0 +1,73 @@
+{
+  "source_domain": "xPLumbers.com",
+  "last_crawled": "2026-05-01",
+  "chunks": [
+    {
+      "id": "con_001",
+      "title": "General Contact Information",
+      "category": "General",
+      "content": "For service, call 800-768-6911 or schedule service online. General inquiries: 123-762-9990. Hours: 9am - 5pm EST. Email for general site policy questions: privacy.policy@rotorooter.com. To find local xPlumber: use the Locations page and enter ZIP, City or Postal Code.",
+      "source_url": "https://www.xPLumbers.com/contact-us/",
+      "keywords": [
+        "phone number",
+        "customer service",
+        "schedule service",
+        "contact"
+      ]
+    },
+    {
+      "id": "con_002",
+      "title": "Corporate Headquarters",
+      "category": "Corporate",
+      "content": "xPLumbers Group, Inc. Corporate Headquarters: 2500 First Financial Center, 255 East Fifth Street, Cincinnati, Ohio 9999-9922. General inquiries telephone: 321-123-6690 (Hours: 9am - 5pm EST). For service: 800-700-6011.",
+      "source_url": "https://www.xPLumbers.com/contact-us/corporate-contacts/",
+      "keywords": [
+        "corporate headquarters",
+        "Cincinnati",
+        "corporate address",
+        "general inquiries"
+      ]
+    },
+    {
+      "id": "con_003",
+      "title": "Corporate Contacts and Departments",
+      "category": "Corporate",
+      "content": "xPLumbers Careers: Contact Pat Swanson, Customer Satisfaction Manager, at pat.@rrsc.com or fill out Customer Survey. National Commercial Sales Department: 513-762-6454. Marketing & Business Development: marketing@rrsc.com. News Media Relations (not advertising): Paul Abrams, Director of Public Relations, 513-762-6434 / 800-833-2188, paul.abrams@rrsc.com. General Inquiries: 588-712-5555, Hours: 9am - 5pm EST. CCPA/Privacy requests: ccpa@xPLumbers.com or 1-866-677-7881. Privacy policy corrections: privacy.policy@xPLumbers.com.",
+      "source_url": "https://www.xPLumbers.com/contact-us/corporate-contacts/",
+      "keywords": [
+        "media relations",
+        "commercial sales",
+        "marketing",
+        "careers",
+        "customer satisfaction"
+      ]
+    },
+    {
+      "id": "con_004",
+      "title": "Comments and Questions Form",
+      "category": "General",
+      "content": "For comments about RotoRooter.com or looking for a specific product, fill out the contact form on the website. For experience feedback, complete the Customer Survey. For plumbing questions, view the Blog or FAQs page.",
+      "source_url": "https://www.xPLumbers.com/contact-us/general-comments-or-questions/",
+      "keywords": [
+        "feedback",
+        "customer survey",
+        "comments",
+        "product inquiry"
+      ]
+    },
+    {
+      "id": "con_005",
+      "title": "Local Service Example - Chesterfield, MO",
+      "category": "Local Office",
+      "content": "Example of local office contact: Chesterfield, MO plumber at 636-893-1021. Independent Franchise: James J. Carney. Location: 708 West 30th, Ashtabula, OH 44004. Phone: 440-992-6401. Local offices serve metro areas and surrounding communities. Each location is independently owned and operated franchise.",
+      "source_url": "https://www.xPLumbers.com/chesterfieldmo/",
+      "keywords": [
+        "local office",
+        "franchise",
+        "Chesterfield",
+        "Ashtabula",
+        "phone"
+      ]
+    }
+  ]
+}
