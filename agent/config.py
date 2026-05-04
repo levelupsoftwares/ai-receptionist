@@ -1,4 +1,5 @@
 from pydantic_settings import BaseSettings
+from pathlib import Path
 import os
 
 
@@ -12,6 +13,7 @@ class Settings(BaseSettings):
     GROQ_API_KEY:str
     RESEMBLE_API_KEY:str
     ELEVEN_API_KEY:str
+    OPENAI_API_KEY:str
 
  #  LLM   
     LLM_MODEL:str = 'meta-llama/llama-4-scout-17b-16e-instruct'
@@ -32,12 +34,18 @@ class Settings(BaseSettings):
     CHUNK_OVERLAP:int = 100
     CHROMA_PATH:str = 'data/chroma_storage'
     TOP_K:int = 2
- 
+
+ # paths
+    BASE_DIR:Path = Path(__file__).resolve().parents[1]
+    CHROMA_DB_DIR:Path = BASE_DIR / "data" / "chroma_storage"
+    
  # system prompt path
     SYSTEM_PROMPTS_PATH:str = "agent/prompts/system.txt"
     class Config:
         env_file = '.env.local'
         extra = 'ignore'
+
+
 settings = Settings()
 
 os.environ["LIVEKIT_URL"] = settings.LIVEKIT_URL
