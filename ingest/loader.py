@@ -27,4 +27,4 @@ def file_loader():
     
     return total_docs
     
-print(file_loader())
+file_loader()
