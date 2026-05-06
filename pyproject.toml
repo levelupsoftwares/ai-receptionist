@@ -15,4 +15,5 @@ dependencies = [
     "livekit-agents[deepgram,elevenlabs,groq,openai,resemble,silero]>=1.3.11",
     "pydantic>=2.13.3",
     "pydantic-settings>=2.14.0",
+    "rank-bm25>=0.2.2",
 ]
