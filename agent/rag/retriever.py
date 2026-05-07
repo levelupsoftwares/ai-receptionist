@@ -3,7 +3,11 @@ from langchain_community.retrievers import BM25Retriever
 from langchain_classic.retrievers import EnsembleRetriever
 import pickle
 
-def get_retriever():
+
+_retriever = None
+
+def build_retriever():
+    
     vector_store = load_vector_store()
     # Dense Search
     dense_search = vector_store.as_retriever(
@@ -26,11 +30,22 @@ def get_retriever():
         retrievers= [dense_search,sparse_search],
         weights=[0.5,0.5]
     )
-    # 
+
+
+def get_retriever():
+    global _retriever
+    if _retriever is None:
+        _retriever = build_retriever()
+    return _retriever
+
     
 def retriever_context(query: str)->str:
     retriever = get_retriever()
     docs =  retriever.invoke(query)
-    return docs[:2]
+    top_docs =  docs[:2]
+    "\n\n".join(
+        doc.page_content for doc in top_docs
+    )
+
 
 
