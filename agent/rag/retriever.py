@@ -1,9 +1,10 @@
 from agent.rag.embedder import load_vector_store
 from langchain_community.retrievers import BM25Retriever
 from langchain_classic.retrievers import EnsembleRetriever
+from agent.config import settings
 import pickle
 
-
+chunks_path = settings.BASE_DIR/'data'/'chunk.pkl'
 _retriever = None
 
 def build_retriever():
@@ -17,7 +18,7 @@ def build_retriever():
 
     # Sparse Search
     # get chunks from pickle which is cache of the doc-chunks 
-    with open('chunk.pkl','rb') as cache_chunks:
+    with open(chunks_path,'rb') as cache_chunks:
         chunk_loaded = pickle.load(cache_chunks)
 
 
@@ -43,7 +44,7 @@ def retriever_context(query: str)->str:
     retriever = get_retriever()
     docs =  retriever.invoke(query)
     top_docs =  docs[:2]
-    "\n\n".join(
+    return "\n\n".join(
         doc.page_content for doc in top_docs
     )
 
