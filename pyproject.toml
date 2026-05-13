@@ -14,6 +14,7 @@ dependencies = [
     "langchain-openai>=1.2.1",
     "livekit>=1.1.7",
     "livekit-agents[deepgram,elevenlabs,groq,openai,resemble,silero,turn-detector]~=1.5",
+    "livekit-plugins-tenvad>=1.0.8",
     "pydantic>=2.13.3",
     "pydantic-settings>=2.14.0",
     "rank-bm25>=0.2.2",

@@ -1,6 +1,6 @@
 from livekit import agents
 from livekit.agents import AgentSession, Agent, RoomInputOptions
-from livekit.plugins import silero
+from livekit.plugins import tenvad
 from livekit.plugins.turn_detector.english import EnglishModel
 
 # STT / LLM / TTS
@@ -191,6 +191,8 @@ async def entrypoint(ctx: agents.JobContext):
     #load the prompt before creating the agent
     await load_system_prompt()
 
+    # preload chroma before any call comes in 
+    await asyncio.to_thread(retriever_context,"plumbing services") #warm up
 # =============================================
 # Agent Session Configuration
 # =============================================
@@ -198,7 +200,7 @@ async def entrypoint(ctx: agents.JobContext):
         stt=get_stt(),
         llm=get_llm(),
         tts=get_tts(),
-        vad = silero.VAD.load(),
+        vad = tenvad.VAD.load(),
         turn_detection=EnglishModel()
     )
 
