@@ -41,6 +41,16 @@ class Settings(BaseSettings):
     
  # system prompt path
     SYSTEM_PROMPTS_PATH:str = "agent/prompts/system.txt"
+
+# time zone 
+    TIME_ZONE:int = 5
+
+# sender email address
+    SENDER_EMAIL_ADDRESS:str
+
+# email app password
+    EMAIL_APP_PASSWORD:str
+
     class Config:
         env_file = '.env.local'
         extra = 'ignore'
