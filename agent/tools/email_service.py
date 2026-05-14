@@ -3,7 +3,7 @@ from email.message import EmailMessage
 from agent.config import settings
 
 
-def email_sender(receiver_emailAddress,body,subject):
+def email_sender(receiver_emailAddress:str,body:str,subject:str):
     try:
         msg =EmailMessage()
         msg['Subject'] = subject
@@ -19,3 +19,4 @@ def email_sender(receiver_emailAddress,body,subject):
     except Exception as e:
         return f"error: Email isn't send to {receiver_emailAddress} due to {e}"
     
+# email_sender('youremail@gmail.com','email checking body','subject checking')
